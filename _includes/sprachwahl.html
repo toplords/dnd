@@ -1,16 +1,47 @@
-<div class="sprachwahl-container">
-  <label for="sprachauswahl">Language:</label>
-  <select id="sprachauswahl" aria-label="Select language">
-    <option value="{{ page.url | replace: '/en/', '/de/' | replace: '/en_', '/de_' }}" {% if page.lang == 'de' %}selected{% endif %}>Deutsch</option>
-    <option value="{{ page.url | replace: '/de/', '/en/' | replace: '/de_', '/en_' }}" {% if page.lang == 'en' %}selected{% endif %}>English</option>
-  </select>
-</div>
+<nav class="sprachwahl-container" aria-label="Sprachauswahl">
+  <a class="sprachwahl-link" href="{{ '/' | relative_url }}" lang="de" hreflang="de" aria-label="Deutsch" title="Deutsch">
+    <span aria-hidden="true">🇩🇪</span>
+    <span class="sprachwahl-text">Deutsch</span>
+  </a>
+  <a class="sprachwahl-link" href="{{ '/en/' | relative_url }}" lang="en" hreflang="en" aria-label="English" title="English">
+    <span aria-hidden="true">🇬🇧</span>
+    <span class="sprachwahl-text">English</span>
+  </a>
+</nav>
 
 <script>
-  document.getElementById('sprachauswahl').addEventListener('change', function() {
-    const selectedLang = this.value;
-    if (selectedLang) {
-      window.location.href = selectedLang;
+  (function() {
+    const deutschUrl = {{ '/' | relative_url | jsonify }};
+    const englischUrl = {{ '/en/' | relative_url | jsonify }};
+    const speicherSchluessel = 'gewaehlteSeitensprache';
+    const links = document.querySelectorAll('.sprachwahl-link');
+
+    links.forEach(function(link) {
+      link.addEventListener('click', function() {
+        try {
+          localStorage.setItem(speicherSchluessel, link.lang);
+        } catch (error) {
+          // Die Sprachauswahl funktioniert auch ohne verfügbaren localStorage.
+        }
+      });
+    });
+
+    let gespeicherteSprache = null;
+    try {
+      gespeicherteSprache = localStorage.getItem(speicherSchluessel);
+    } catch (error) {
+      // Ohne localStorage wird nur die Browsersprache ausgewertet.
     }
-  });
+
+    const browserSprachen = navigator.languages && navigator.languages.length
+      ? navigator.languages
+      : [navigator.language || ''];
+    const bevorzugtDeutsch = browserSprachen.some(function(sprache) {
+      return /^de(?:-|$)/i.test(sprache);
+    });
+
+    if (window.location.pathname === deutschUrl && !gespeicherteSprache && !bevorzugtDeutsch) {
+      window.location.replace(englischUrl);
+    }
+  })();
 </script>
