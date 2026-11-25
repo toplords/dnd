@@ -1,0 +1,33 @@
+  .sprachwahl-container {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    background-color: var(--nav-bg);
+    padding: 0.35rem 0.5rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--secondary-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+    z-index: 1001;
+  }
+
+  .sprachwahl-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.25rem;
+    min-height: 2rem;
+    border-radius: var(--border-radius);
+    font-size: 1.25rem;
+    line-height: 1;
+    text-decoration: none;
+  }
+
+  .sprachwahl-link:hover,
+  .sprachwahl-link:focus-visible {
+    background-color: var(--secondary-color);
+    outline: 2px solid var(--accent-color);
+    outline-offset: 2px;
+  }
