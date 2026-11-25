@@ -3,14 +3,11 @@ title: Friday
 lang: en
 ---
 
-## Goal of the Day
-
-Friday focuses on free play.
-
-## What You Should Do
-
-- Play free duels
-- Test your strategies
-- Have fun playing
-
-> **Tip:** Take the opportunity to try out new combinations.
+## 🟠 Day 5: Friday – Soldier / Survivor Training
+* **Match Weight:** 2 Duel Points
+* **What Scores Points:**
+  * Training and **Promoting** soldiers
+  * Using **Training Speedups**
+  * *(Depending on the weekly rotation, Construction/Research speedups & Intel tasks may also count)*
+* **Strategy:**
+  * If you train lower-tier troops during the week, you can **Promote** them to your highest unlocked tier on Friday using Training Speedups—this is much cheaper and gives the highest points per minute!

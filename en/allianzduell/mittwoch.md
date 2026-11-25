@@ -3,14 +3,13 @@ title: Wednesday
 lang: en
 ---
 
-## Goal of the Day
-
-Wednesday focuses on strategic thinking.
-
-## What You Should Do
-
-- Analyze past duels
-- Develop new strategies
-- Test your plans in exercises
-
-> **Tip:** Discuss your ideas with the alliance.
+### 🔵 Day 3: Wednesday – Tech Research
+* **Match Weight:** 2 Duel Points
+* **What Scores Points:**
+  * Using **Research Speedups** & increasing tech power
+  * Spending **Valor Badges** in research
+  * Opening Relic / Component chests
+  * Completing **Intel Missions**
+* **Strategy:**
+  * Focus on researching nodes in the **"Alliance Duel"** tree today, as this spends Valor Badges while permanently boosting your future duel scores.
+  * *Save all Hero Shards, Tickets, and Skill Medals for Thursday!*
