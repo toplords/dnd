@@ -6,10 +6,6 @@ title: Startseite
 
 Willkommen auf unserer offiziellen Webseite! Hier findest du alle wichtigen Informationen für unsere Allianzduelle, Tipps und Tricks sowie Informationen zum Frachtschiff.
 
-## Aktuelles
-
-Hier findest du die neuesten Informationen und Ankündigungen für unsere Allianz.
-
 ## Navigationsleiste
 
 Nutze die Navigationsleiste oben, um zu den verschiedenen Bereichen zu gelangen:

@@ -7,10 +7,6 @@ lang: en
 
 Welcome to our official website! Here you will find all the important information for our alliance duels, tips and tricks, as well as information about the cargo ship.
 
-## Current
-
-Here you will find the latest information and announcements for our alliance.
-
 ## Navigation
 
 Use the navigation bar above to navigate to the different areas:
