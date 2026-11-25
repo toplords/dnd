@@ -3,7 +3,7 @@ title: Saturday
 lang: en
 ---
 
-## 🔴 Day 6: Saturday – Enemy Elimination
+### 🔴 Day 6: Saturday – Enemy Elimination
 * **Match Weight:** 4 Duel Points (often decides the entire week!)
 * **What Scores Points:**
   * Defeating enemy troops (in the enemy kingdom / on the map)
