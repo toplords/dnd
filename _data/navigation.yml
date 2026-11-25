@@ -6,17 +6,17 @@
     - titel: Allgemein
       url: /allianzduell/allgemein/
     - titel: Montag
-      url: /allianzduell/montag/
+      url: /allianzduell/montag.md
     - titel: Dienstag
-      url: /allianzduell/dienstag/
+      url: /allianzduell/dienstag.md
     - titel: Mittwoch
-      url: /allianzduell/mittwoch/
+      url: /allianzduell/mittwoch.md
     - titel: Donnerstag
-      url: /allianzduell/donnerstag/
+      url: /allianzduell/donnerstag.md
     - titel: Freitag
-      url: /allianzduell/freitag/
+      url: /allianzduell/freitag.md
     - titel: Samstag
-      url: /allianzduell/samstag/
+      url: /allianzduell/samstag.md
 - titel: Tipps und Tricks
   url: /tipps-und-tricks/
 - titel: Frachtschiff
@@ -25,4 +25,4 @@
     - titel: How To
       url: /frachtschiff/how-to/
     - titel: Kapitäne
-      url: /frachtschiff/kapitaene/
+      url: /frachtschiff/kapitaene.html

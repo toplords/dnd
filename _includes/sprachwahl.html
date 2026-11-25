@@ -1,8 +1,8 @@
 <div class="sprachwahl-container">
   <label for="sprachauswahl">Language:</label>
   <select id="sprachauswahl" aria-label="Select language">
-    <option value="{{ '/de/' | relative_url }}" {% if page.lang == 'de' %}selected{% endif %}>Deutsch</option>
-    <option value="{{ '/en/' | relative_url }}" {% if page.lang == 'en' %}selected{% endif %}>English</option>
+    <option value="{{ page.url | replace: '/en/', '/de/' | replace: '/en_', '/de_' }}" {% if page.lang == 'de' %}selected{% endif %}>Deutsch</option>
+    <option value="{{ page.url | replace: '/de/', '/en/' | replace: '/de_', '/en_' }}" {% if page.lang == 'en' %}selected{% endif %}>English</option>
   </select>
 </div>
 

@@ -7,7 +7,11 @@
     </button>
     
     <ul class="nav-list">
-      {% for item in site.data.navigation %}
+      {% assign nav_file = 'navigation.yml' %}
+      {% if page.lang == 'en' or page.url contains '/en/' %}
+        {% assign nav_file = 'navigation_en.yml' %}
+      {% endif %}
+      {% for item in site.data[nav_file] %}
         {% if item.unterpunkte %}
           <li class="nav-item dropdown">
             <a href="{{ item.url }}" class="nav-link" aria-haspopup="true" aria-expanded="false">
