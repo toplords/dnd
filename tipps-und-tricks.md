@@ -24,6 +24,7 @@ Hier sind die wichtigsten Alltags-Tricks, um kostenlos Diamanten zu sammeln, Res
 ---
 
 ## ⚡ Ressourcenspar- & Event-Tricks
+* **Allianz-Duell mit dem Wettrüsten timen:** Erledige deine Tagesaufgaben für das Allianz-Duell nicht sofort nach dem Reset, sondern warte auf die passende stündliche Phase im **Wettrüsten** (z. B. Bauen, Forschung, Helden oder Truppentraining). So kassierst du für denselben Ressourcen- und Beschleuniger-Einsatz **doppelte Belohnungen**!
 * **Truppen in kleinen Paketen (Batches) heilen:** Heile nach Kämpfen nicht alle verwundeten Soldaten auf einmal, sondern in **kleinen Stapeln von 30 bis 45 Minuten**. Deine Allianz-Mitglieder können jeden einzelnen Auftrag per „Hilfe“-Button kostenlos verkürzen – so sparst du fast alle Heilungs-Beschleuniger.
 * **Niedrige Truppen „befördern“ (Promote):** Bilde unter der Woche günstig Soldaten einer niedrigeren Stufe aus und werte sie erst am **Freitag (Allianz-Duell)** auf deine höchste Stufe auf. Das spart Ressourcen und bringt extrem viele Event-Punkte in kurzer Zeit.
 * **Aufklärungsmissionen-Missionen (Intel) vor-farmen:** Schließe am **Sonntag** deine letzten Intel-Missionen ab, aber **tippe sie nicht zum Einsammeln an**. Nach dem Reset am Montag kannst du sie sofort einlösen und startest direkt mit einem großen Punktevorsprung.

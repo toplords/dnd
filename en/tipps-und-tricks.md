@@ -24,6 +24,7 @@ Here are the best daily tricks to grab free Diamonds, save resources, and maximi
 ---
 
 ## ⚡ Resource-Saving & Event Tricks
+* **Time Alliance Duel Tasks with the Arms Race:** Don't rush your Alliance Duel tasks right after reset—wait until the matching hourly phase in the **Arms Race** is active (e.g., Construction, Research, Hero Upgrade, or Troop Training). That way, you earn **double rewards** for the exact same resources and speedups!
 * **Heal Troops in Small Batches:** After heavy fights, don't heal all wounded soldiers at once. Heal them in **small batches of 30 to 45 minutes** so alliance members can speed up each batch for free using the "Help" button—saving almost all your Healing Speedups.
 * **Promote Lower-Tier Troops:** Train cheaper, lower-tier troops during the week and **Promote** them to your highest tier on **Friday (Alliance Duel)**. This costs fewer resources and gives massive event points in very little time.
 * **Pre-Farm Intel Missions:** Complete your final Intel Missions on **Sunday**, but **do not claim them**. Collect them right after Monday's reset for an instant head start on Day 1 points.
