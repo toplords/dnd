@@ -1,5 +1,62 @@
 <header class="header">
   <div class="banner">
-    <img src="{{ '/assets/img/banner.jpg' | relative_url }}" alt="Allianz Banner">
+    <img src="{{ '/assets/img/dnd_banner.jpg' | relative_url }}" alt="D&D Alliance Banner">
   </div>
+  
+  <nav class="navigation">
+    <div class="nav-wrapper">
+      <a href="{{ site.baseurl }}/{{ page.lang | default: 'de' }}/" class="nav-logo-link">
+        <img src="{{ '/assets/img/dnd_icon.png' | relative_url }}" alt="D&D Alliance Logo" class="nav-logo">
+      </a>
+      
+      <button class="hamburger" aria-label="Menü umschalten">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
+      
+      <ul class="nav-list">
+        <li class="nav-item">
+          <a href="{{ '/de/' | relative_url }}" class="nav-link{% if page.lang == 'de' %} active{% endif %}">Deutsch</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/en/' | relative_url }}" class="nav-link{% if page.lang == 'en' %} active{% endif %}">English</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/de/index.html' | relative_url }}" class="nav-link{% if page.lang == 'de' and (page.url == '/de/' or page.url == '/de/index.html') %} active{% endif %}">Start</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/en/index.html' | relative_url }}" class="nav-link{% if page.lang == 'en' and (page.url == '/en/' or page.url == '/en/index.html') %} active{% endif %}">Home</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle">Allianzduell</a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ '/de/allianzduell/allgemein/' | relative_url }}">Allgemein</a></li>
+            <li><a href="{{ '/de/allianzduell/montag/' | relative_url }}">Montag</a></li>
+            <li><a href="{{ '/de/allianzduell/dienstag/' | relative_url }}">Dienstag</a></li>
+            <li><a href="{{ '/de/allianzduell/mittwoch/' | relative_url }}">Mittwoch</a></li>
+            <li><a href="{{ '/de/allianzduell/donnerstag/' | relative_url }}">Donnerstag</a></li>
+            <li><a href="{{ '/de/allianzduell/freitag/' | relative_url }}">Freitag</a></li>
+            <li><a href="{{ '/de/allianzduell/samstag/' | relative_url }}">Samstag</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle">Tips & Tricks</a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ '/de/tipps-und-tricks/' | relative_url }}">Tipps und Tricks</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle">Frachtschiff</a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ '/de/frachtschiff/how-to/' | relative_url }}">How To</a></li>
+            <li><a href="{{ '/de/frachtschiff/kapitaene/' | relative_url }}">Kapitäne</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a href="{{ '/de/contact.html' | relative_url }}" class="nav-link{% if page.url contains 'contact' %} active{% endif %}">Kontakt</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
 </header>

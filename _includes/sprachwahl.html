@@ -1,21 +1,16 @@
 <div class="sprachwahl-container">
-  <label for="sprachauswahl">Sprache:</label>
-  <select id="sprachauswahl" aria-label="Sprache auswählen">
-    <option value="de">Deutsch</option>
-    <option value="en">English</option>
-    <option value="fr">Français</option>
-    <option value="es">Español</option>
-    <option value="it">Italiano</option>
-    <option value="pl">Polski</option>
-    <option value="tr">Türkçe</option>
-    <option value="ru">Русский</option>
-    <option value="uk">Українська</option>
-    <option value="pt">Português</option>
-    <option value="nl">Nederlands</option>
-    <option value="zh">中文</option>
-    <option value="ja">日本語</option>
-    <option value="ko">한국어</option>
-    <option value="ar">العربية</option>
-    <option value="vi">Tiếng Việt</option>
+  <label for="sprachauswahl">Language:</label>
+  <select id="sprachauswahl" aria-label="Select language">
+    <option value="/de/" {% if page.lang == 'de' %}selected{% endif %}>Deutsch</option>
+    <option value="/en/" {% if page.lang == 'en' %}selected{% endif %}>English</option>
   </select>
 </div>
+
+<script>
+  document.getElementById('sprachauswahl').addEventListener('change', function() {
+    const selectedLang = this.value;
+    if (selectedLang) {
+      window.location.href = selectedLang;
+    }
+  });
+</script>

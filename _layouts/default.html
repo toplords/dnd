@@ -1,3 +1,7 @@
+---
+layout: minima
+---
+
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 <head>
@@ -5,12 +9,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} - {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% if site.theme == 'minima' %}
+    <link rel="stylesheet" href="{{ '/assets/css/minima.css' | relative_url }}">
+  {% endif %}
 </head>
 <body>
+  <a class="skip-link" href="#main-content">{{ 'skip_link.text' | default: 'Skip to main content' }}</a>
+  
   {% include header.html %}
   {% include nav.html %}
   
-  <main class="content">
+  <main id="main-content" class="content">
     {{ content }}
   </main>
   

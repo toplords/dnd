@@ -4,8 +4,26 @@ lang: de
 baseurl: ""
 url: "https://toplords.github.io/dnd"
 
+theme: minima
+
+plugins:
+  - jekyll-feed
+
 defaults:
   - scope:
-      path: ""
+      path: "de"
     values:
+      lang: de
       layout: "default"
+  - scope:
+      path: "en"
+    values:
+      lang: en
+      layout: "default"
+
+# Minima Theme Konfiguration
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: "https://github.com/toplords/dnd"

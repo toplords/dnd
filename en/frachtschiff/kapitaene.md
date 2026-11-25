@@ -1,0 +1,16 @@
+---
+title: Captains
+lang: en
+---
+
+## Daily Captain Rotation
+
+Here you can see the daily rotation of our captains. The captain of the day is listed at the top.
+
+<div id="kapitaene-container">
+  <noscript><p><em>Please enable JavaScript to display the captains.</em></p></noscript>
+</div>
+
+<script id="kapitaene-data" type="application/json">
+{{ site.data.kapitaene | jsonify }}
+</script>
