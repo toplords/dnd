@@ -2,14 +2,20 @@
 title: Dienstag
 ---
 
-## Ziel des Tages
+# Dienstag
 
-Dienstags geht es um die Fortgeschrittenen-Techniken.
+Dienstags ist der Burgausbau dran
 
 ## Was ihr tun solltet
 
-- Übt komplexe Manöver
-- Testet neue Waffenkombinationen
-- Verbessert eure Reaktionszeit
+- Aufklärungsmissionen für Morgen aufsparen 
+- Burgen upgraden (entweder um 21 Uhr oder unter Event tauschen)
+- Baubeschleuniger nutzen 
+- UR-Karren losschicken und UR-Kopfgeldaufträge erledigen. (Wenn kein UR angezeigt, dann Schalter oder Würfel nutzen)
+- Dekorationen upgraden
+- Vasallen rekrutieren
+- Tages- und Eventaufgaben erledigen 
+- Technologien spenden 
+- Arena 3 x liken und spielen 
+- nur vom Server 51 plündern
 
-> **Tipp:** Notiert euch eure Erfahrungen für die Besprechung.

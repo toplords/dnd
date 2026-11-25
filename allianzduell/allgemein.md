@@ -2,22 +2,34 @@
 title: Allianzduell Allgemein
 ---
 
-## Allgemeine Informationen
+# Allianzduell
 
-Hier findest du allgemeine Informationen zu unseren Allianzduellen.
+Forscht Allianzduell soweit es geht. Seid stark, spart dafür, macht die Aufgaben (nur) an diesen Tagen:
 
-### Wichtige Regeln
+## Montag
+- Aufklärungsmissionen
+- Greif füttern
+- Ausdauer nutzen
 
-- Jedes Allianzduell hat seine eigenen Regeln
-- Bitte lies die spezifischen Regeln für jeden Tag
-- Halte dich an die vereinbarten Zeiten
+## Dienstag
+- Gebäude KK, speed ups
+- UR Aufträge
+- Arbeitertickets
+- Deko-Teile 
 
-### Vorbereitung
+## Mittwoch
+- Forschungs KK, speed ups
+- RSS Sammeln
 
-Stelle sicher, dass du gut vorbereitet bist:
+## Donnerstag
+- Heldentickets, XP, Fragmente, Skills
 
-- Rüste deine Schiffe aus
-- Plane deine Strategie
-- Koordiniere mit deiner Allianz
+## Freitag
+- Soldaten produzieren+speed ups
+- Waffen schmieden+aufwerten
 
-Viel Erfolg!
+## Samstag
+- Kills :)
+oder SCHILD an!
+
+Haltet euch dran & wir gewinnen!
