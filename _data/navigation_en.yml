@@ -1,30 +1,30 @@
 - titel: Home
   home: true
   url: /en/index.md
-- titel: Allianzduell
-  url: /en/allianzduell/allgemein.md
+- titel: Alliance Duel
+  url: /en/allianzduell/allgemein.html
   unterpunkte:
-    - titel: Allgemein
-      url: /en/allianzduell/allgemein.md
+    - titel: Common
+      url: /en/allianzduell/allgemein.html
     - titel: Monday
-      url: /en/allianzduell/montag.md
+      url: /en/allianzduell/montag.html
     - titel: Tuesday
-      url: /en/allianzduell/dienstag.md
+      url: /en/allianzduell/dienstag.html
     - titel: Wednesday
-      url: /en/allianzduell/mittwoch.md
+      url: /en/allianzduell/mittwoch.html
     - titel: Thursday
-      url: /en/allianzduell/donnerstag.md
+      url: /en/allianzduell/donnerstag.html
     - titel: Friday
-      url: /en/allianzduell/freitag.md
+      url: /en/allianzduell/freitag.html
     - titel: Saturday
-      url: /en/allianzduell/samstag.md
+      url: /en/allianzduell/samstag.html
 - titel: Events
   unterpunkte:
     - titel: Goldmine
       url: /en/events/goldmine.html
 - titel: Tipps and Tricks
-  url: /en/tipps-und-tricks.md
-- titel: Frachtschiff
+  url: /en/tipps-und-tricks.html
+- titel: Cargo Ship
   url: /frachtschiff/how-to.html
   unterpunkte:
     - titel: How To
