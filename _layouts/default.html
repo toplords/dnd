@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  {% include header.html %}
+  {% include nav.html %}
+  
+  <main class="content">
+    {{ content }}
+  </main>
+  
+  {% include sprachwahl.html %}
+  <footer class="footer">
+    <p>Automatisch übersetzt – maßgeblich ist die deutsche Fassung.</p>
+  </footer>
+  
+  <script src="{{ '/assets/js/menu.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/kapitaene.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/uebersetzung.js' | relative_url }}"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<nav class="navigation" role="navigation" aria-label="Hauptnavigation">
+  <button class="hamburger" aria-label="Menü umschalten" aria-expanded="false">
+    <span class="hamburger-line"></span>
+    <span class="hamburger-line"></span>
+    <span class="hamburger-line"></span>
+  </button>
+  
+  <ul class="nav-list">
+    {% for item in site.data.navigation %}
+      {% if item.unterpunkte %}
+        <li class="nav-item dropdown">
+          <a href="{{ item.url }}" class="nav-link" aria-haspopup="true" aria-expanded="false">
+            {{ item.titel }}
+          </a>
+          <ul class="dropdown-menu">
+            {% for sub in item.unterpunkte %}
+              <li><a href="{{ sub.url }}">{{ sub.titel }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% else %}
+        <li class="nav-item">
+          <a href="{{ item.url }}" class="nav-link">{{ item.titel }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

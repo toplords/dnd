@@ -1,0 +1,11 @@
+title: Allianz Webseite
+description: Offizielle Webseite der Allianz
+lang: de
+baseurl: ""
+url: "https://toplords.github.io/dnd"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

@@ -1,0 +1,26 @@
+- titel: Allianzduell
+  url: /allianzduell/allgemein/
+  unterpunkte:
+    - titel: Allgemein
+      url: /allianzduell/allgemein/
+    - titel: Montag
+      url: /allianzduell/montag/
+    - titel: Dienstag
+      url: /allianzduell/dienstag/
+    - titel: Mittwoch
+      url: /allianzduell/mittwoch/
+    - titel: Donnerstag
+      url: /allianzduell/donnerstag/
+    - titel: Freitag
+      url: /allianzduell/freitag/
+    - titel: Samstag
+      url: /allianzduell/samstag/
+- titel: Tipps und Tricks
+  url: /tipps-und-tricks/
+- titel: Frachtschiff
+  url: /frachtschiff/how-to/
+  unterpunkte:
+    - titel: How To
+      url: /frachtschiff/how-to/
+    - titel: Kapitäne
+      url: /frachtschiff/kapitaene/

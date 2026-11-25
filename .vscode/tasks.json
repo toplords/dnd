@@ -1,0 +1,10 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Create folder structure",
+			"type": "shell",
+			"command": "mkdir _data _layouts _includes assets\\css assets\\js assets\\img en"
+		}
+	]
+}
