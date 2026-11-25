@@ -25,9 +25,9 @@
 - titel: Tipps and Tricks
   url: /en/tipps-und-tricks.md
 - titel: Frachtschiff
-  url: /frachtschiff/how-to.md
+  url: /frachtschiff/how-to.html
   unterpunkte:
     - titel: How To
-      url: /frachtschiff/how-to.md
+      url: /frachtschiff/how-to.html
     - titel: Captains
-      url: /en/frachtschiff/kapitaene.md
+      url: /en/frachtschiff/kapitaene.html
