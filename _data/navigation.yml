@@ -1,3 +1,5 @@
+- titel: Home
+  home: true
 - titel: Allianzduell
   url: /allianzduell/allgemein/
   unterpunkte:
