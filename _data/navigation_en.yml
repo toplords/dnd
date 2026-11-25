@@ -18,6 +18,10 @@
       url: /en/allianzduell/freitag.md
     - titel: Saturday
       url: /en/allianzduell/samstag.md
+- titel: Events
+  unterpunkte:
+    - titel: Goldmine
+      url: /en/events/goldmine.html
 - titel: Tipps and Tricks
   url: /en/tipps-und-tricks.md
 - titel: Frachtschiff

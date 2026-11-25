@@ -17,6 +17,10 @@
       url: /allianzduell/freitag.html
     - titel: Samstag
       url: /allianzduell/samstag.html
+- titel: Events
+  unterpunkte:
+    - titel: Goldmine
+      url: /events/goldmine.html
 - titel: Tipps und Tricks
   url: /tipps-und-tricks.html
 - titel: Frachtschiff
@@ -26,3 +30,4 @@
       url: /frachtschiff/how-to.html
     - titel: Kapitäne
       url: /frachtschiff/kapitaene.html
+

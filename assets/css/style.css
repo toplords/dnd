@@ -380,6 +380,25 @@ body {
   z-index: 1001;
 }
 
+.sprachwahl-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.25rem;
+  min-height: 2rem;
+  border-radius: var(--border-radius);
+  font-size: 1.25rem;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.sprachwahl-link:hover,
+.sprachwahl-link:focus-visible {
+  background-color: var(--secondary-color);
+  outline: 2px solid var(--accent-color);
+  outline-offset: 2px;
+}
+
 .sprachwahl-container label {
   margin-right: 0.5rem;
   font-weight: bold;
