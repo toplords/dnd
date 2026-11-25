@@ -2,14 +2,11 @@
 title: Freitag
 ---
 
-## Ziel des Tages
-
-Freitags steht das freie Spiel im Fokus.
-
-## Was ihr tun solltet
-
-- Spielt freie Duelle
-- Testet eure Strategien
-- Habt Spaß am Spiel
-
-> **Tipp:** Nutzt die Gelegenheit, neue Kombinationen auszuprobieren.
+## 🟠 Tag 5: Freitag – Soldaten-Training
+* **Wertigkeit:** 2 Duell-Punkte
+* **Das bringt Punkte:**
+  * Soldaten ausbilden und aufwerten (*Promote*)
+  * Trainings-Beschleuniger einsetzen
+  * (Je nach Wochenrotation auch Bau-/Forschungs-Beschleuniger & Intel-Aufgaben)
+* **Vorgehensweise:**
+  * Bildest du unter der Woche bereits niedrigere Truppenstufen aus, kannst du diese am Freitag mit Trainings-Beschleunigern günstig und extrem schnell auf deine höchste Stufe **aufwerten (Promote)** – das gibt die meisten Punkte pro Minute!
