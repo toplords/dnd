@@ -7,25 +7,32 @@
     </button>
     
     <ul class="nav-list">
-      {% assign nav_file = 'navigation.yml' %}
+      {% assign nav_file = 'navigation' %}
       {% if page.lang == 'en' or page.url contains '/en/' %}
-        {% assign nav_file = 'navigation_en.yml' %}
+        {% assign nav_file = 'navigation_en' %}
       {% endif %}
       {% for item in site.data[nav_file] %}
-        {% if item.unterpunkte %}
+        {% if item.home %}
+          <li class="nav-item">
+            <a href="{% if page.lang == 'en' or page.url contains '/en/' %}{{ '/en/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="nav-link" aria-label="Home">
+              <svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 3 2 12h3v9h6v-6h2v6h6v-9h3L12 3z"/></svg>
+              <span>{{ item.titel }}</span>
+            </a>
+          </li>
+        {% elsif item.unterpunkte %}
           <li class="nav-item dropdown">
-            <a href="{{ item.url }}" class="nav-link" aria-haspopup="true" aria-expanded="false">
+            <a href="{{ item.url | relative_url }}" class="nav-link" aria-haspopup="true" aria-expanded="false">
               {{ item.titel }}
             </a>
             <ul class="dropdown-menu">
               {% for sub in item.unterpunkte %}
-                <li><a href="{{ sub.url }}">{{ sub.titel }}</a></li>
+                <li><a href="{{ sub.url | relative_url }}">{{ sub.titel }}</a></li>
               {% endfor %}
             </ul>
           </li>
         {% else %}
           <li class="nav-item">
-            <a href="{{ item.url }}" class="nav-link">{{ item.titel }}</a>
+            <a href="{{ item.url | relative_url }}" class="nav-link">{{ item.titel }}</a>
           </li>
         {% endif %}
       {% endfor %}
