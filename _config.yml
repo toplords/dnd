@@ -1,8 +1,8 @@
 title: Allianz Webseite
 description: Offizielle Webseite der Allianz
 lang: de
-baseurl: ""
-url: "https://toplords.github.io/dnd"
+baseurl: "/dnd"
+url: "https://toplords.github.io"
 
 theme: minima
 
