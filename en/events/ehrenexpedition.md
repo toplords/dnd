@@ -23,8 +23,8 @@ You can access the mode directly from your city view:
 
 ### Expeditionen
 <img src="/dnd/assets/img/stamm.jpg" alt="Stamm" class="thumbnail" data-caption="Stamm">
-<img src="/dnd/assets/img/stamm.jpg" alt="Legion" class="thumbnail" data-caption="Legion">
-<img src="/dnd/assets/img/stamm.jpg" alt="Ranger" class="thumbnail" data-caption="Ranger">
+<img src="/dnd/assets/img/legion.jpg" alt="Legion" class="thumbnail" data-caption="Legion">
+<img src="/dnd/assets/img/ranger.jpg" alt="Ranger" class="thumbnail" data-caption="Ranger">
 
 ---
 
