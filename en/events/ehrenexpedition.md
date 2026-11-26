@@ -19,12 +19,12 @@ You can access the mode directly from your city view:
 ---
 
 ### Inconspicuous Tower
-<img src="/assets/img/turm.jpg" alt="Unauffälliger Turm" class="thumbnail" data-caption="Find the inconspicuous tower in your city">
+<img src="/dnd/assets/img/turm.jpg" alt="Unauffälliger Turm" class="thumbnail" data-caption="Find the inconspicuous tower in your city">
 
 ### Expeditionen
-<img src="/assets/img/stamm.jpg" alt="Stamm" class="thumbnail" data-caption="Stamm">
-<img src="/assets/img/stamm.jpg" alt="Legion" class="thumbnail" data-caption="Legion">
-<img src="/assets/img/stamm.jpg" alt="Ranger" class="thumbnail" data-caption="Ranger">
+<img src="/dnd/assets/img/stamm.jpg" alt="Stamm" class="thumbnail" data-caption="Stamm">
+<img src="/dnd/assets/img/stamm.jpg" alt="Legion" class="thumbnail" data-caption="Legion">
+<img src="/dnd/assets/img/stamm.jpg" alt="Ranger" class="thumbnail" data-caption="Ranger">
 
 ---
 
@@ -42,4 +42,4 @@ As you progress, you earn **Expedition Points** that can be exchanged for key up
 ---
 
 ### Shop
-<img src="/assets/img/expenditionen_shop..jpg" alt="Shop" class="thumbnail" data-caption="Shop">
+<img src="/dnd/assets/img/expenditionen_shop..jpg" alt="Shop" class="thumbnail" data-caption="Shop">

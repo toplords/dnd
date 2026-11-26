@@ -19,12 +19,12 @@ Der Zugang befindet sich direkt in deiner Stadtansicht:
 ---
 
 ### Unauffälliger Turm
-<img src="/assets/img/turm.jpg" alt="Unauffälliger Turm" class="thumbnail" data-caption="So findest du den Unauffälligen Turm in deiner Stadt">
+<img src="/dnd/assets/img/turm.jpg" alt="Unauffälliger Turm" class="thumbnail" data-caption="So findest du den Unauffälligen Turm in deiner Stadt">
 
 ### Expeditionen
-<img src="/assets/img/stamm.jpg" alt="Stamm" class="thumbnail" data-caption="Stamm">
-<img src="/assets/img/stamm.jpg" alt="Legion" class="thumbnail" data-caption="Legion">
-<img src="/assets/img/stamm.jpg" alt="Ranger" class="thumbnail" data-caption="Ranger">
+<img src="/dnd/assets/img/stamm.jpg" alt="Stamm" class="thumbnail" data-caption="Stamm">
+<img src="/dnd/assets/img/stamm.jpg" alt="Legion" class="thumbnail" data-caption="Legion">
+<img src="/dnd/assets/img/stamm.jpg" alt="Ranger" class="thumbnail" data-caption="Ranger">
 
 ---
 
@@ -42,4 +42,4 @@ Für deine Fortschritte erhältst du **Expeditionspunkte**, die du im **Expediti
 ---
 
 ### Shop
-<img src="/assets/img/expenditionen_shop..jpg" alt="Shop" class="thumbnail" data-caption="Shop">
+<img src="/dnd/assets/img/expenditionen_shop..jpg" alt="Shop" class="thumbnail" data-caption="Shop">
