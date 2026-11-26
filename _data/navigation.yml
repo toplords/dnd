@@ -23,6 +23,14 @@
       url: /events/goldmine.html
     - titel: Wettrüsten
       url: /events/wettruesten.html
+    - titel: Ehrenexpedition
+      url: /events/ehrenexpedition.html
+- titel: Kostenlose Ressourcen und Geschenke
+  unterpunkte:
+    - titel: Wildjagd
+      url: /events/wildjagd.html
+    - titel: Königreichsmarkt
+      url: /events/koenigreichsmarkt.html
 - titel: Tipps und Tricks
   url: /tipps-und-tricks.html
 - titel: Frachtschiff

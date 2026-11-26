@@ -22,8 +22,16 @@
   unterpunkte:
     - titel: Goldmine
       url: /en/events/goldmine.html
-    - titel: Rivalry
+    - titel: Race to Ace
       url: /en/events/wettruesten.html
+    - titel: Honor Expedition
+      url: /en/events/ehrenexpedition.html
+- titel: Free Resources / Gifts
+  unterpunkte:
+    - titel: Wild Hunt
+      url: /en/events/wildjagd.html
+    - titel: Kingdom Market
+      url: /en/events/koenigreichsmarkt.html
 - titel: Tipps and Tricks
   url: /en/tipps-und-tricks.html
 - titel: Cargo Ship
