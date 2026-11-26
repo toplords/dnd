@@ -28,10 +28,12 @@
       url: /en/events/ehrenexpedition.html
 - titel: Free Resources / Gifts
   unterpunkte:
+    - titel: Daily Gifts
+      url: /en/ressourcen/taegliche-geschenke.html
     - titel: Wild Hunt
-      url: /en/events/wildjagd.html
+      url: /en/ressourcen/wildjagd.html
     - titel: Kingdom Market
-      url: /en/events/koenigreichsmarkt.html
+      url: /en/ressourcen/koenigreichsmarkt.html
 - titel: Tipps and Tricks
   url: /en/tipps-und-tricks.html
 - titel: Cargo Ship

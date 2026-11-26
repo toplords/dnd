@@ -27,10 +27,12 @@
       url: /events/ehrenexpedition.html
 - titel: Kostenlose Ressourcen und Geschenke
   unterpunkte:
+    - titel: Tägliche Geschenke
+      url: /ressourcen/taegliche-geschenke.html
     - titel: Wildjagd
-      url: /events/wildjagd.html
+      url: /ressourcen/wildjagd.html
     - titel: Königreichsmarkt
-      url: /events/koenigreichsmarkt.html
+      url: /ressourcen/koenigreichsmarkt.html
 - titel: Tipps und Tricks
   url: /tipps-und-tricks.html
 - titel: Frachtschiff
