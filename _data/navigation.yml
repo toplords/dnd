@@ -1,5 +1,9 @@
 - titel: Home
   home: true
+- titel: Regeln
+  url: /regeln.html
+- titel: Plündern
+  url: /pluendern.html
 - titel: Allianzduell
   url: /allianzduell/allgemein.html
   unterpunkte:

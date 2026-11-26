@@ -1,6 +1,10 @@
 - titel: Home
   home: true
   url: /en/index.md
+- titel: Rules
+  url: /en/regeln.html
+- titel: Raiding
+  url: /en/pluendern.html
 - titel: Alliance Duel
   url: /en/allianzduell/allgemein.html
   unterpunkte:
