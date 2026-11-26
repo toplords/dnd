@@ -42,4 +42,4 @@ As you progress, you earn **Expedition Points** that can be exchanged for key up
 ---
 
 ### Shop
-<img src="/dnd/assets/img/expenditionen_shop..jpg" alt="Shop" class="thumbnail" data-caption="Shop">
+<img src="/dnd/assets/img/expenditionen_shop.jpg" alt="Shop" class="thumbnail" data-caption="Shop">
