@@ -5,13 +5,7 @@ title: Tipps und Tricks
 
 # 💡 Tipps & Tricks für Top Lords
 
-Hier sind die wichtigsten Alltags-Tricks, um kostenlos Diamanten zu sammeln, Ressourcen zu sparen und im Allianz-Duell maximale Punkte zu holen:
-
----
-
-## 💎 Gratis-Diamanten & tägliche Pflicht-Klicks
-* **Top 3 liken (3× 30 Diamanten):** Öffne im **Allianz-Duell (VS)** das Ranking/Podium (bzw. das Arena-Podium) und gib den Top-3-Spielern täglich ein „Like“ – das bringt dir direkt **90 kostenlose Diamanten** pro Tag.
-* **Tägliche Gratis-Truhen:** Hole im Shop und VIP-Menü jeden Tag deine kostenlosen Punkte und Truhen ab.
+Hier sind ein paar wichtigsten Alltags-Tricks:
 
 ---
 

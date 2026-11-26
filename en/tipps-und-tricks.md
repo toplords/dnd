@@ -5,13 +5,7 @@ lang: en
 
 # 💡 Tips & Tricks for Top Lords
 
-Here are the best daily tricks to grab free Diamonds, save resources, and maximize your points during the Alliance Duel:
-
----
-
-## 💎 Free Diamonds & Daily Must-Dos
-* **Like the Top 3 (3× 30 Diamonds):** Open the **Alliance Duel (VS)** ranking/podium (or the Arena podium) and give a "Like" to the top 3 players every day for **90 free Diamonds**.
-* **Daily Free Chests:** Don't forget to claim your free daily points and chests in the Shop and VIP menu.
+Here are the best daily tricks:
 
 ---
 
