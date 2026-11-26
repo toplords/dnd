@@ -42,4 +42,4 @@ Für deine Fortschritte erhältst du **Expeditionspunkte**, die du im **Expediti
 ---
 
 ### Shop
-<img src="/dnd/assets/img/expenditionen_shop..jpg" alt="Shop" class="thumbnail" data-caption="Shop">
+<img src="/dnd/assets/img/expenditionen_shop.jpg" alt="Shop" class="thumbnail" data-caption="Shop">
