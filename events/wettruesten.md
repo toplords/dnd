@@ -21,6 +21,9 @@ Das **Wettrüsten ist ein tägliches Einzel-Event, bei dem ihr durch alltäglich
 * **Wechselnde Reihenfolge:** Da ein Tag 6 Runden hat, aber nur 5 Themen existieren, kommt **ein Thema pro Tag doppelt** vor – und die Reihenfolge ändert sich täglich.
 
 ---
+<img src="/dnd/assets/img/wettruesten.jpg" alt="Wettrüsten" class="thumbnail" data-caption="Wettrüsten">
+<img src="/dnd/assets/img/wettruesten_kalender.jpg" alt="Wettrüsten" class="thumbnail" data-caption="Wettrüsten">
+---
 
 ## 🎯 Die perfekte Strategie (Doppelt abkassieren!)
 1. **Immer zuerst in den Kalender schauen:** Oben im Event-Fenster des Wettrüstens gibt es ein **Kalender-Symbol**. Dort seht ihr genau, welches Thema zu welcher Uhrzeit (Serverzeit!) dran ist. Gebt niemals blind Beschleuniger aus, ohne vorher die Uhrzeit zu prüfen!

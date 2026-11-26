@@ -21,6 +21,9 @@ lang: en
 * **Changing Order:** Because there are 6 rounds in a day and 5 themes, **one theme repeats twice each day**—and the schedule changes daily.
 
 ---
+<img src="/dnd/assets/img/wettruesten.jpg" alt="Race to Ace" class="thumbnail" data-caption="Race to Ace">
+<img src="/dnd/assets/img/wettruesten_kalender.jpg" alt="Race to Ace" class="thumbnail" data-caption="Race to Ace">
+---
 
 ## 🎯 Optimal Strategy (Double-Dip Rewards!)
 1. **Always Check the Event Calendar First:** Tap the **calendar icon** near the top of the Race to Ace screen to see the exact schedule for the day (in server time!). Never spend speedups without checking which round is active first.
