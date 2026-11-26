@@ -35,6 +35,10 @@ Damit du im Alltag nicht aus Versehen einen Handelskarren aus dem eigenen König
 Sobald dieser Haken gesetzt ist, werden dir nur noch Karren von anderen Servern angezeigt.
 
 ---
+<img src="/dnd/assets/img/karren_1.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
+---
+
+---
 
 ## 4. So plünderst du Kopfgeldaufträge auf anderen Servern
 Um auch bei Kopfgeldaufträgen sicher auf fremden Servern zu bleiben und die beste Beute mitzunehmen, gehe wie folgt vor:
@@ -46,3 +50,9 @@ Um auch bei Kopfgeldaufträgen sicher auf fremden Servern zu bleiben und die bes
    * 🟪 **Lila Kisten:** Mittlerer Loot (gute Alternative)
    * 🟦 **Türkise Kisten:** Schlechter Loot (nach Möglichkeit meiden)
 4. **Auf die Zahl achten:** Die **Zahl an der Kiste** gibt an, wie viele Gegenstände sich darin befinden – **je höher die Zahl, desto besser die Ausbeute**.
+
+---
+<img src="/dnd/assets/img/karren_2.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
+<img src="/dnd/assets/img/karren_3.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
+<img src="/dnd/assets/img/karren_4.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
+---

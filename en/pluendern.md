@@ -35,6 +35,9 @@ To avoid accidentally attacking a Trade Cart from your own kingdom, use the buil
 Once this box is checked, only carts from other servers will be displayed.
 
 ---
+<img src="/dnd/assets/img/karren_1.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
+---
+
 
 ## 4. How to Plunder Bounty Quests on Other Servers
 To make sure you stay on foreign servers for Bounty Quests and grab the best loot possible, follow these steps:
@@ -46,3 +49,9 @@ To make sure you stay on foreign servers for Bounty Quests and grab the best loo
    * 🟪 **Purple Chests:** Medium loot (solid alternative)
    * 🟦 **Turquoise / Cyan Chests:** Poor loot (avoid if possible)
 4. **Check the Number:** The **number displayed on the chest** indicates how many items are inside—**the higher the number, the better the reward**.
+
+---
+<img src="/dnd/assets/img/karren_2.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
+<img src="/dnd/assets/img/karren_3.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
+<img src="/dnd/assets/img/karren_4.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
+---
