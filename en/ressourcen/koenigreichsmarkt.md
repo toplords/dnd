@@ -17,6 +17,9 @@ Visit the Kingdom Market every day while the event is active to grab these two o
 * **60 Crowns for 500 Diamonds:** Every day, you can purchase a bundle of **60 Crowns** for **500 Diamonds**. Since you receive 100 Diamonds for free, the 60 Crowns effectively only cost 400 Diamonds—offering great value.
 
 ---
+<img src="/dnd/assets/img/market.jpg" alt="market" class="thumbnail" data-caption="market">
+<img src="/dnd/assets/img/market2.jpg" alt="market2" class="thumbnail" data-caption="market2">
+---
 
 ## 2. Exchange Crowns in the Event Shop
 You can trade your collected **Crowns** directly in the Kingdom Market Shop for rare and valuable resources (make sure to spend all your Crowns before the event ends):

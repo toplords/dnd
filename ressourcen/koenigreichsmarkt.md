@@ -17,6 +17,9 @@ Schau während der Event-Laufzeit jeden Tag im Königreichsmarkt vorbei, um dies
 * **60 Kronen für 500 Diamanten:** Du kannst dir jeden Tag für **500 Diamanten** ein Paket mit **60 Kronen** kaufen. Da du 100 Diamanten geschenkt bekommst, kosten dich die 60 Kronen effektiv nur 400 Diamanten – ein sehr starkes Preis-Leistungs-Verhältnis.
 
 ---
+<img src="/dnd/assets/img/market.jpg" alt="market" class="thumbnail" data-caption="market">
+<img src="/dnd/assets/img/market2.jpg" alt="market2" class="thumbnail" data-caption="market2">
+---
 
 ## 2. Kronen im Event-Shop eintauschen
 Deine gesammelten **Kronen** kannst du direkt im Shop des Königreichsmarkts gegen seltene und wertvolle Ressourcen eintauschen (achte darauf, alle Kronen vor Ende des Events auszugeben):
