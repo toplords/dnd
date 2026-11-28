@@ -38,7 +38,6 @@ Sobald dieser Haken gesetzt ist, werden dir nur noch Karren von anderen Servern 
 <img src="/dnd/assets/img/karren_1.jpg" alt="Karren" class="thumbnail" data-caption="Karren">
 ---
 
----
 
 ## 4. So plünderst du Kopfgeldaufträge auf anderen Servern
 Um auch bei Kopfgeldaufträgen sicher auf fremden Servern zu bleiben und die beste Beute mitzunehmen, gehe wie folgt vor:
